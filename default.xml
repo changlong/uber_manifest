@@ -8,14 +8,14 @@
            sync-c="true" />
 
   <project path="manifest" name="changlong/uber_manifest" revision="lto" />
-  <project path="binutils/binutils-uber" name="changlong/binutils" revision="lto" />
+  <project path="binutils/binutils-uber" name="changlong/uber_binutils" revision="lto" />
   <project path="build" name="UBERTC/uber-build" />
   <project path="cloog/cloog-uber" name="UBERTC/cloog" revision="0.18.3" />
   <project path="cloog/cloog-uber/isl" name="UBERTC/isl" revision="0.14" />
   <project path="cloog/cloog-uber/osl" name="UBERTC/osl" revision="0.9.0" />
   <project path="isl/isl-uber" name="UBERTC/isl" revision="0.14" />
   <project path="gcc/gcc-UBER" name="UBERTC/GCC-UBER" revision="uber-4.9" />
-  <project path="gdb/gdb-uber" name="changlong/gdb" revision="lto" />
+  <project path="gdb/gdb-uber" name="changlong/uber_gdb" revision="lto" />
   <project path="gmp/gmp-uber" name="UBERTC/gmp" revision="6.0.0" />
   <project path="mpc/mpc-uber" name="UBERTC/mpc" revision="1.0.3" />
   <project path="mpfr/mpfr-uber" name="UBERTC/mpfr" revision="3.1.2" />
